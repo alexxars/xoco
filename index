@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Xocopikacao - Chocolate Artesanal</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Xocopikacao</h1>
+        <p>"Herencia ancestral, sabor legendario"</p>
+    </header>
+    
+    <section>
+        <img src="images/chocolate.jpg" alt="Chocolate Xocopikacao">
+        <h2>Sobre el Producto</h2>
+        <p>Xocopikacao es un chocolate oscuro artesanal con chile ahumado (chile pasilla) y un toque de sal de mar artesanal. Un balance entre lo dulce, lo picante y lo salado.</p>
+        
+        <h2>Características</h2>
+        <ul>
+            <li><b>Tipo:</b> Chocolate oscuro 70% cacao</li>
+            <li><b>Sabor:</b> Intenso, ligeramente amargo con un toque picante</li>
+            <li><b>Textura:</b> Suave y cremosa</li>
+            <li><b>Presentación:</b> Barra de 80 g</li>
+        </ul>
+        
+        <h2>Beneficios</h2>
+        <ul>
+            <li>Hecho con cacao fino mexicano y sustentable</li>
+            <li>Sin conservadores ni saborizantes artificiales</li>
+            <li>Aporta antioxidantes naturales</li>
+            <li>Inspirado en recetas tradicionales mexicanas</li>
+        </ul>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Xocopikacao. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
